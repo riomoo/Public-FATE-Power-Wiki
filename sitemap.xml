@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost/fate-prism/</loc>
+    <lastmod>2025-03-20T15:51:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost/fate-prism/zeroth/</loc>
+    <lastmod>2025-03-20T15:51:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost/fate-the-veil/</loc>
+    <lastmod>2025-03-20T15:51:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost/fate-the-veil/caelum/</loc>
+    <lastmod>2025-04-09T20:55:10-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost/</loc>
+    <lastmod>2025-04-09T20:55:10-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/</loc>
+  </url>
+</urlset>
